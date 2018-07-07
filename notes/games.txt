@@ -1,0 +1,10 @@
+schooling...
+
+there's a list of available games, their file sizes and their ratings
+write a script to suggest the best three games for an interested player
+based on his available space
+
+or a file with games, genres (tags) and ratings
+suggest the best games to play based on the user's interests
+::that is, a game can have more than one tag? farcry3, fps;action;thriller, 3.8
+::the user likes racing and fps games.. suggest the best three games
